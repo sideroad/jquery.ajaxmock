@@ -1,3 +1,18 @@
+/*!
+ * jquery.ajaxmock v1.1.1
+ * http://sideroad.secret.jp/
+ *
+ * Mock test for using jQuery Ajax
+ * 
+ * Copyright (c) 2011 sideroad
+ *
+ * Dual licensed under the MIT or GPL licenses.
+ * Date: 2011-08-17
+ * 
+ * @author sideroad
+ * @requires jQuery
+ * 
+ */
 (function( $ ){
     var mock = {},
         ignores = {},
